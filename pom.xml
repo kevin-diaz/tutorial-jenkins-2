@@ -53,8 +53,8 @@
 			<url>http://localhost:8080/manager/text</url>
 			<server>TomcatServer</server>
 			<path>/myAppContextPath</path>
-			<username>admin</username>
-			<password>admin</password>
+			<username>kevin</username>
+			<password>peinyahikonino</password>
 		</configuration>
 	</plugin>
 	
